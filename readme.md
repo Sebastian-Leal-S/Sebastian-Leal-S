@@ -42,7 +42,7 @@ ENG:
 
 ###
 
-<p align="center">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.</p>
+<p style="font-size: 1.2em;" align="center">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.</p>
 
 ###
 
