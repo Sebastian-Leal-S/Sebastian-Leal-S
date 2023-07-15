@@ -65,9 +65,9 @@ ENG:
 
 ## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
 
-- [] <img align="center" style="margin: 8px;" src="https://img.icons8.com/clouds/100/cyber-security.png" alt="cyber-security" height="50"/> Cyber Security (SC-900)
-- [] <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
-- [] <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+- <img align="center" style="margin: 8px;" src="https://img.icons8.com/clouds/100/cyber-security.png" alt="cyber-security" height="50"/> Cyber Security (SC-900)
+- <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
+- <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
 
 <br/>
 
