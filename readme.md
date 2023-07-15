@@ -35,9 +35,9 @@ ENG:
 ## 💬 About me
 
 <div style="display: flex; align-items: center; justify-content: space-around;" >
+    <img align="right" class="ocultar-img" width="30%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
     <p align="left" style="font-size: 1.2em; max-width: 350px">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.
     </p>
-    <img align="right" class="ocultar-img" width="30%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 </div>
 
 <br/>
