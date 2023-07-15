@@ -15,7 +15,7 @@ ENG:
     <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 </div>
 
-<br/>
+</br>
 
 <div  align="center">
     <a href="https://linkedin.com/in/sebastian-leal-sanchez" target="_blank">
@@ -27,10 +27,9 @@ ENG:
     <a href="mailto:sedastianleal@gmail.com" target="_blank">
         <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
     </a>
-</a>
 </div>
 
-<br/>
+</br>
 
 ## 💬 About me
 
@@ -40,7 +39,7 @@ ENG:
     </p>
 </div>
 
-<br/>
+</br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center"> Languages and Tools  
 
@@ -61,7 +60,9 @@ ENG:
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
 </div>
 
-<br/> 
+</br>
+</br>
+</br>
 
 ## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
 
@@ -69,7 +70,7 @@ ENG:
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
 
-<br/>
+</br>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width ="30" align="center"/> Github Stats 
 
