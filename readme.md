@@ -42,7 +42,7 @@ ENG:
 
 ###
 
-<p style="font-size: 1.2em;" align="center">I am a Full Stack Web Developer passionate about Backend with experience in personal and team projects, looking for my next job opportunity.</p>
+<p style="font-size: 1.2em; margin: 16px;" align="center">I am a Full Stack Web Developer passionate about Backend with experience in personal and team projects, looking for my next job opportunity.</p>
 
 ###
 
