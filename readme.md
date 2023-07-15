@@ -39,7 +39,11 @@ ENG:
     </p>
 </div>
 
+
 </br>
+</br>
+</br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center"> Languages and Tools  
 
@@ -60,8 +64,6 @@ ENG:
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
 </div>
 
-</br>
-</br>
 </br>
 
 ## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
