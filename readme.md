@@ -43,9 +43,9 @@ ENG:
 ## 💬 About me
 
 <div style="display: flex; align-items: center; justify-content: space-around;" >
-    <p style="font-size: 1.2em; max-width: 350px">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.
+    <p align="left" style="font-size: 1.2em; max-width: 350px">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.
     </p>
-    <img class="ocultar-img" width="30%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
+    <img align="right" class="ocultar-img" width="30%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
 </div>
 
 <br/>
@@ -73,9 +73,9 @@ ENG:
 
 ## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
 
-- <img align="center" style="margin: 8px;" src="https://img.icons8.com/clouds/100/cyber-security.png" alt="cyber-security" height="50"/> Cyber Security (SC-900)
-- <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
-- <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+- [] <img align="center" style="margin: 8px;" src="https://img.icons8.com/clouds/100/cyber-security.png" alt="cyber-security" height="50"/> Cyber Security (SC-900)
+- [] <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
+- [] <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
 
 <br/>
 
@@ -85,5 +85,3 @@ ENG:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-Leal-S&show_icons=true&theme=transparent" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-Leal-S&layout=compact&theme=transparent&langs_count=8&card_width=320&hide_progress=true" />
 <p>
-
-<a target="_blank" href="https://icons8.com/icon/OKMC0MrrQY5I/planta-en-maceta">icons8</a>
