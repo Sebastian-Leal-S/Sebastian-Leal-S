@@ -48,7 +48,7 @@ ENG:
 
 <br clear="both">
 
-<h1 align="left">Languages and Tools</h1>
+<h1 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center"> Languages and Tools</h1>
 
 ###  
 
@@ -69,17 +69,21 @@ ENG:
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
 </div>
 
-<br clear="both"> 
+###
 
-## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
+<h1 align="left"><img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning</h1>
+
+###
 
 - <img align="center" style="margin: 8px;" src="https://img.icons8.com/clouds/100/cyber-security.png" alt="cyber-security" height="50"/> Cyber Security (SC-900)
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
 
-<br clear="both">
+###
 
-## <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width ="30" align="center"/> Github Stats 
+<h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width ="30" align="center"/> Github Stats</h1>
+
+###
 
 <p align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-Leal-S&show_icons=true&theme=transparent" />
