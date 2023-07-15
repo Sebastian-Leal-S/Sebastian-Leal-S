@@ -8,14 +8,17 @@ ENG:
 -->
 
 <div align="center">
-    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=94B199&center=true&vCenter=true&width=435&lines=Hi!+I'm+Sebastian+Leal+S;Full+Stack+Web+Developer"/>
+    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=94B199&center=true&vCenter=true&width=435&lines=Hi!+I'm+Sebastian+Leal+S;Full+Stack+Web+Developer"/>
 </div>
+
+###
 
 <div align="center">
-    <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+    <img height="200" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 </div>
 
-</br>
+###
 
 <div  align="center">
     <a href="https://linkedin.com/in/sebastian-leal-sanchez" target="_blank">
@@ -29,22 +32,25 @@ ENG:
     </a>
 </div>
 
-</br>
+###
 
-## 💬 About me
+<h1 align="left">💬 About me</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-around;" >
-    <img align="right" class="ocultar-img" width="30%" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" />
-    <p align="left" style="font-size: 1.2em; max-width: 350px">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.</p>
-</div>
+###
 
+<img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif"  />
 
-</br>
-</br>
-</br>
+###
 
+<p align="center">Soy un desarrollador Web Full Stack apasionado por el Backend con experiencia en proyectos personales y en equipo, en busca de mi próxima oportunidad laboral.</p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" align="center"> Languages and Tools  
+###
+
+<br clear="both">
+
+<h1 align="left">Languages and Tools</h1>
+
+###  
 
 <div align="center">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
@@ -63,7 +69,7 @@ ENG:
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" />
 </div>
 
-</br>
+<br clear="both"> 
 
 ## <img align="center" width="30" src="./assets/icons8-planta.gif" /> Learning
 
@@ -71,7 +77,7 @@ ENG:
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="40" />
 - <img align="center" style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
 
-</br>
+<br clear="both">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/240814217-baf52aa6-ff71-412d-9607-db8feb17874b.gif" width ="30" align="center"/> Github Stats 
 
