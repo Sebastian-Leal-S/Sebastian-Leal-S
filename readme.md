@@ -7,14 +7,6 @@ ENG:
     All the inspiration and cool stuff came from here: https://github.com/rzashakeri/beautify-github-profile
 -->
 
-<style>
-    @media (max -width: 600px){
-        .ocultar-img{
-            display:none;
-        }
-    }
-</style>
-
 <div align="center">
     <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=94B199&center=true&vCenter=true&width=435&lines=Hi!+I'm+Sebastian+Leal+S;Full+Stack+Web+Developer"/>
 </div>
