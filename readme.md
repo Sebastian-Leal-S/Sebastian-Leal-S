@@ -86,6 +86,6 @@ ENG:
 ###
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-Leal-S&show_icons=true&theme=transparent" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-Leal-S&layout=compact&theme=transparent&langs_count=8&card_width=320&hide_progress=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastian-Leal-S&show_icons=true&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastian-Leal-S&layout=compact&theme=transparent&langs_count=8&card_width=320&hide_progress=true" />
 <p>
